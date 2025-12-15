@@ -428,6 +428,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Velociraptor skeleton
       objectReference: {fileID: 0}
+    - target: {fileID: 1525539152500033246, guid: 6f3b354890a956742a5807804802ccfc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e9c244c4c70227043ba41ec3cc36eba9, type: 2}
+    - target: {fileID: 1581239653440661880, guid: 6f3b354890a956742a5807804802ccfc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bfa9e339c5820774d9a889255f5c83fe, type: 2}
+    - target: {fileID: 5421799626736145721, guid: 6f3b354890a956742a5807804802ccfc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3e2e9b66d32cfd84788f33a503e52186, type: 2}
+    - target: {fileID: 8151023354082563727, guid: 6f3b354890a956742a5807804802ccfc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 341bbbc3be816df44bfaedcfe63614a3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
